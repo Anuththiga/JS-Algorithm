@@ -8,7 +8,7 @@ Algorithms and data structures are fundamental to computer science and programmi
 
 ## LeetCode Challenges
 
-The [LeetCode challenges](/Leetcode) directory contains a collection of coding challenges and problems sourced from LeetCode. Each challenge includes a problem statement and JavaScript solutions provided by me.
+The [LeetCode challenges](/Leetcode) directory contains a collection of coding challenges and problems sourced from LeetCode. Each challenge includes a problem statement and JavaScript solutions.
 
 ## Codility Challenges
 
