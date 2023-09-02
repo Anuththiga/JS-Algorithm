@@ -3,7 +3,7 @@
 
 function solution(A, K) {
     // Implement your solution here
-    
+    if(A.length == 0) return A;
     while(K>0) {
         let newA = [];
         newA.push(A[A.length-1]);
