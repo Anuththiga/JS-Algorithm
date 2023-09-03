@@ -1,4 +1,4 @@
-# JavaScript Solutions for Algorithms and Datastructures problems
+# JavaScript Algorithms and Datastructures
 
 This repository is a collection of JavaScript coding challenges sourced from platforms like LeetCode and Codility. It serves as a resource for learning and practicing algorithms and data structures using JavaScript.
 
