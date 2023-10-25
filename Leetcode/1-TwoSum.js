@@ -29,7 +29,6 @@ var twoSum = function(nums,target)
     //if the remaining val is there return the remaining val index, i
     
     let val = new Map();
-    let output = [];
 
     for(let i=0; i<nums.length; i++)
     {
@@ -37,13 +36,11 @@ var twoSum = function(nums,target)
         if(val.has(remain))
         {
             let temp = val.get(remain);
-            output.push(temp);
-            output.push(i);
+            return [temp, i];
         }
         else
         {
             val.set(nums[i],i);
         }
     }
-    return output;
 }
